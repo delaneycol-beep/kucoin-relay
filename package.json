@@ -1,0 +1,12 @@
+{
+  "name": "kucoin-relay",
+  "version": "1.0.0",
+  "description": "Relay server between KuCoin and 3Commas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
